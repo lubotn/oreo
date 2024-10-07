@@ -66,31 +66,35 @@ criacartao(
 criacartao(
 'História',
 'Qual foi o principal objetivo das Grandes Navegações do século XV?',
-'Resposta: Encontrar novas rotas comerciais para as Índias e expandir territórios.'
+'Resposta: Encontrar novas rotas comerciais para as Índias e expandir territórios.',
 )
 criacartao(
-: 'Geografia'
-15.Qual é o rio mais extenso do mundo? Resposta: Rio Amazonas.
+'Geografia',
+'Qual é o rio mais extenso do mundo?',
+'Resposta: Rio Amazonas.',
 )
 criacartao(
-: 'Geografia'
-16.Em que hemisfério se encontra a maior parte do continente africano? Resposta: Hemisfério Oriental.
+'Geografia',
+'Em que hemisfério se encontra a maior parte do continente africano?',
+'Resposta: Hemisfério Oriental.',
 )
 criacartao(
-: 'Ciências'
-17.Qual é o nome do processo pelo qual as plantas produzem seu próprio alimento usando luz solar? Resposta: Fotossíntese.
+'Ciências',
+'Qual é o nome do processo pelo qual as plantas produzem seu próprio alimento usando luz solar?',
+'Resposta: Fotossíntese.',
 )
 criacartao(
-: 'Ciências'
-18.Qual é o gás mais abundante na atmosfera terrestre? Resposta: Nitrogênio.
+'Ciências',
+'Qual é o gás mais abundante na atmosfera terrestre?',
+'Resposta: Nitrogênio.',
 )
 criacartao(
-: Língua Portuguesa
+'Língua Portuguesa',
+'Qual é a função de um advérbio em uma frase?',
+'Resposta: Modificar o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como tempo, lugar, modo, intensidade, etc.',
 )
 criacartao(
-19.Qual é a função de um advérbio em uma frase? Resposta: Modificar o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como tempo, lugar, modo, intensidade, etc.
-)
-criacartao(
-: 'Língua Portuguesa'
-20.Qual é o objeto direto na frase: "Maria leu o livro rapidamente"? Resposta: "o livro".
+'Língua Portuguesa',
+'Qual é o objeto direto na frase: "Maria leu o livro rapidamente"?',
+'Resposta: "o livro".',
 )
