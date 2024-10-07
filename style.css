@@ -3,6 +3,10 @@
     --cor-frente:#00FA9A;
     --cor-verso:#000000;
     --destaque:#FF00FF;
+    --preto:#000000;
+    --branco:#ffffff;
+}
+body{
+    background-color: var(--fundo);
     
-
 }
