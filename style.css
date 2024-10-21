@@ -1,8 +1,8 @@
 :root{
     --fundo: #ffffff;
-    --cor-frente:#f10800;
+    --cor-frente:#000000;
     --cor-verso:#000000;
-    --destaque:#00ec8a;
+    --destaque:#0400d8;
     --preto:#000000;
     --branco:#ffffff;
 }
@@ -63,5 +63,5 @@ footer{
 }
 .cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
-    
+
 }
