@@ -61,3 +61,6 @@ footer{
     font-weight: 700;
     color: var(--destaque);
 }
+.cartao:hover .conteudo-cartao{
+    transform: rotateX('180');
+}
