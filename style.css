@@ -27,7 +27,7 @@ footer{
 }
 .cartao{
     flex-grow: 1;
-    flex-basis: calc(33%-6rem);
+    flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
 }
@@ -62,5 +62,6 @@ footer{
     color: var(--destaque);
 }
 .cartao:hover .conteudo-cartao{
-    transform: rotateY('180DEG');
+    transform: rotateY(180deg);
+    
 }
