@@ -62,5 +62,5 @@ footer{
     color: var(--destaque);
 }
 .cartao:hover .conteudo-cartao{
-    transform: rotateX('180');
+    transform: rotateY('180DEG');
 }
