@@ -15,7 +15,6 @@ cartao.innerHTML = `
 `
 let respostaEstaVisivel = false;
 function viraCartao(){
-    respostaEstaVisivel=
 }
 container.appendChild(cartao);
 }
