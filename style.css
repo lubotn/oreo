@@ -64,7 +64,7 @@ footer{
     color: var(--destaque);
     background-color: var(--cor-verso);
     border:3px solid var(--destaque);
-    transform: rotateY(180deg);
+    
 }
 .cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
