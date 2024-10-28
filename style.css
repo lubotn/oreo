@@ -10,6 +10,12 @@ body{
 margin: 0;
     background-color: var(--fundo);
 }
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
 footer{
     position: fixed;
     bottom: 0;
